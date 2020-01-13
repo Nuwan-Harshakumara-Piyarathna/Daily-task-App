@@ -13,7 +13,11 @@
 
         <!-- Styles -->
         <style>
-            html, body {
+            
+           body {
+                background: url("/images/hill.jpg");
+                width:100%;
+                height:100%;
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Nunito', sans-serif;
