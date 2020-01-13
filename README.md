@@ -21,12 +21,10 @@
         </ul>
         <h3>Features</h3>
         <ul>
-            <li>Google Sign In</li>
-            <li>Catogory Selection</li>
-            <li>Search For an Item</li>
+            <li>Create a New Task</li>
+            <li>Delete , Update Task</li>
+            <li>Fullfunctioning login,signin,logout,Reset password,Forget Password Sections</li>
             <li>Table Data Collection</li>
-            <li>Admin and User Access</li>
-            <li>Add item , Delete Item or UpdateItem features</li>
         </ul>
         <h3>See Project</h3>
         <img src="/images/Screenshot (79).png"><hr>
