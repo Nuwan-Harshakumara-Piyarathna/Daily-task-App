@@ -1,0 +1,24 @@
+body {
+    background: url("paddyfield.jpg");/*include a background image*/
+    background-size: cover;
+}
+a {
+    color: yellow;
+    font-family: sans-serif;
+    margin-left: 30px;
+}
+
+.cong {
+    background: rgba(44,62,80,0.9);
+    padding: 40px;
+    margin-left: 180px;
+    height: 200px;
+    margin: 0 auto;
+    margin-top: 180px;
+    width: 240px;
+}
+
+h2 {
+    margin-top: 50px;
+    margin-left: 10px;
+}

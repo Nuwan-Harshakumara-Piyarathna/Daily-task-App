@@ -1,0 +1,66 @@
+body {
+    font-family: sans-serif;
+    color: #fff;
+    background: url("sriLankaBeach.jpg");/*include a background image*/
+    background-size: cover;
+}
+
+a {
+    color: yellow;
+    text-decoration: blink;
+    font-family: Roboto;
+    margin-left: 35px;
+}
+
+.forget {
+    background: rgba(44,62,80,0.7);
+    padding: 80px;
+    width: 240px;
+    height: 340px;
+    margin-left: 180px;
+    margin-top: 120px;
+    margin: 0 auto;
+
+}
+
+h2 {
+    margin-top: 28px;
+    margin-left: 10px;
+}
+
+input {
+    width: 240px;
+    text-align: center;
+    background: transparent;
+    border: none;
+    border-bottom: 1px solid #fff;
+    font-family: 'Play',sans-serif;
+    font-size: 16px;
+    font-weight: 200;
+    padding: 10px 0;
+    transition: border 500ms;
+    outline: none;
+    color: #fff;
+}
+
+input[type=button] {/*log in button*/
+    border: none;
+    width: 190px;
+    background: white;
+    color: #000;
+    font-size: 16px;
+    line-height: 25px;
+    padding: 10px 0;
+    border-radius: 15px;
+    cursor: pointer;/*hand mark instead of arrow*/
+}
+
+input[type=button]:hover {
+    color: white;
+    background-color: black;
+}
+
+::placeholder {
+    color: aliceblue;
+    opacity: 0.8;
+}
